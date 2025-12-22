@@ -17,10 +17,7 @@
           "type": "path",
           "style": "plain",
           "foreground": "#56B6C2",
-          "options": {
-            "style": "folder"
-          },
-          "template": "  {{ .Path }}"
+          "template": " {{ .Path }}"
         },
         {
           "type": "git",
