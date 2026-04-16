@@ -1,11 +1,9 @@
-<p style="text-align: center;">
-# Hello,
-## My name is Fernando,
-### And i am a student at [Polytechnic University of Setúbal](https://ips.pt/).
+<h1 align="center">Hello!</h1>
 
+<h2 align="center">My name is Fernando.</h2>
 
+<h3 align="center">I am a student at the <a href="https://ips.pt/">Polytechnic University of Setúbal (IPS)</a>.</h3>
 
-
-
-Find me at [Linkdin](https://www.linkedin.com/in/fernandoferreira-dev/)![^1]
+<p align="center">
+  <b>Find me on <a href="https://www.linkedin.com/in/fernandoferreira-dev/">LinkedIn</a></b>
 </p>
