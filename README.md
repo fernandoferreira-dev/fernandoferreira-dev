@@ -1,8 +1,11 @@
-<h1 align="center">Hi , I'm Fernando</h1>
-<h3 align="center">A passionate developer from Portugal</h3>
+<p style="text-align: center;">
+# Hello,
+## My name is Fernando,
+### And i am a student at [Polytechnic University of Setúbal](https://ips.pt/).
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/fernandoferreira-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fernandoferreira-dev" height="30" width="40" /></a>
+
+
+
+
+Find me at [Linkdin](https://www.linkedin.com/in/fernandoferreira-dev/)![^1]
 </p>
-
